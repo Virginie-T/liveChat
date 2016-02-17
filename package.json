@@ -1,0 +1,22 @@
+{
+  "name": "livechat",
+  "version": "1.0.0",
+  "description": "real time chat",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Virginie-T/liveChat.git"
+  },
+  "author": "Virginie T, Tom U",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Virginie-T/liveChat/issues"
+  },
+  "homepage": "https://github.com/Virginie-T/liveChat#readme",
+  "dependencies": {
+    "socket.io": "^1.4.5"
+  }
+}
